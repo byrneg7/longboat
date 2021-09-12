@@ -9,6 +9,7 @@
 ## Setup
 - - - 
 1. `bundle install` (Install gems)
+2. `yarn install` or `npm install` (Install npm packages)   
 2. `rails db:setup` (Setup database)
 3. `rspec` (Optional: run tests)   
 4. `rails s`  (Start application)
